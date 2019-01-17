@@ -231,6 +231,10 @@ licenses.
 is a YouTube video of a presentation by Tom Callaway (of RedHat) about patents
 and licenses entitled "Understanding FOSS licenses (without a lawyer)".
         
+* [Open Source Licensing War: Commons Clause](https://www.zdnet.com/article/open-source-licensing-war-commons-clause/)
+is an article about a restrictive addendum, [Commons Clause](https://commonsclause.com/), added to an open source
+sofwtare license issued by a company called Redis, that has sparked a
+controversy. The addendum limits commercial reuse of the licensed work.
 
 ## Contributing to Open Source Projects
 
