@@ -98,6 +98,11 @@ is a short YouTube video in which he explains how to jump start a career in open
 There as a very important message in this talk, which most people need to
 hear (and which I will not reveal.)
 
+* [What is Open Source, and Why Should You Care?](https://www.youtube.com/watch?v=n2GhS-u-5FA)
+is a YouTube video in which Kevin Fleming gives a brief history of open source software,
+and talks about open source beyond software, and various ways that students can get 
+involved in open source projects to develop useful and marketable  skills.
+
 * [Doing your civic duty](https://opensource.com/article/18/10/civic-duty-one-line-code?utm_campaign=intrel)
 is an article by Tee Morris, who is the Communications Chief for Code.gov, 
 the nation’s primary platform for sharing and improving government software. 
