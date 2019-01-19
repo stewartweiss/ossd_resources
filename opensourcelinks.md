@@ -187,8 +187,8 @@ and its importance in the enterprise.
 
 * [The Linux Foundation's 2018 Open Source Jobs Report](https://www.linuxfoundation.org/publications/2018/06/open-source-jobs-report-2018/)
 is a report on jobs in the open source world in 2018. To give you some idea, from the report:
-> "Open source continues its long stretch of popularity, becoming the 
-> software of choice for businesses large and small."
+	> "Open source continues its long stretch of popularity, becoming the 
+	> software of choice for businesses large and small."
 
               
 * [Open Source Within Modern Companies](https://opensource.com/business/16/5/whats-open-source-program-office)
