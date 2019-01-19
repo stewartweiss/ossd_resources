@@ -7,6 +7,18 @@ a thorough list; it is intended to include those that are either important
 or provide many services and resources for those interested in all things
 open source. 
 
+# Contents
+- [Open Source Supporting Institutions and Organizations](#history-of-open-source-and-the-free-software-movement)
+- [Websites Providing Definitions, Commentary, and General Information About Open Source](#websites-providing-definitions,-commentary,-and-general-information-about-open-source)
+- [History of Open Source and the Free Software Movement](#history-of-open-source-and-the-free-software-movement)
+- [The Business of Open Source](#the-business-of-open-source)
+- [Open Source Stories](#open-source-stories)
+- [Intellectual Property Rights and License](#intellectual-property-rights-and-license)
+- [Contributing to Open Source Projects](#contributing-to-open-source-projects)
+- [Links to Tutorials, Resources, and Other Help In Using Open Source-Related Tools](#links-to-tutorials,-resources,-and-other-help-in-using-open-source-related-tools)
+
+                                         
+
 ##  Open Source Supporting Institutions and Organizations
 These websites are the landing pages of important organizations that have
 been supporting the Open Source movement, or that provide useful 
