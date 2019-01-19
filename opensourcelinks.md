@@ -1,6 +1,6 @@
 # A Compilation of On-line Open-Source-Related Resources
 
-This is a collection of links to online resources related to open source.
+This is a collection of links to on-line resources related to open source.
 It is organized by topic to the extent that this is possible, as sometimes 
 a website may be placed into multiple categories.  This is by no means
 a thorough list; it is intended to include those that are either important
@@ -291,3 +291,4 @@ is a collection of what to do when things go wrong in using Git.
  
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ )
 is a guide from GitHub in mastering Markdown
+
