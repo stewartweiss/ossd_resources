@@ -25,14 +25,14 @@ non-profit corporation with global scope created to educate about
 and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.
 It has many valuable resources on its website.
 
-* [openhatch.org](https://openhatch.org/ openhatch.org)
+* [openhatch.org](https://openhatch.org/)
 is the website of **OpenHatch**, a non-profit organization whose goal is to
 lower the barriers to entry into the open source community and increase its 
 diversity. As they put it, they are 
-> dedicated to matching prospective free software contributors 
-> with communities, tools, and education. 
+	> dedicated to matching prospective free software contributors 
+	> with communities, tools, and education. 
 
-CAVEAT: This website is not being supported at present, so the data might 
+	CAVEAT: This website is not being supported at present, so the data might 
 be stale.
 
 * [fsf.org](https://www.fsf.org/)
