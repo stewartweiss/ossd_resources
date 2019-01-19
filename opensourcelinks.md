@@ -29,11 +29,8 @@ It has many valuable resources on its website.
 is the website of **OpenHatch**, a non-profit organization whose goal is to
 lower the barriers to entry into the open source community and increase its 
 diversity. As they put it, they are 
-	> dedicated to matching prospective free software contributors 
-	> with communities, tools, and education. 
-
-	CAVEAT: This website is not being supported at present, so the data might 
-be stale.
+	"dedicated to matching prospective free software contributors  with communities, tools, and education. "
+	CAVEAT: This website is not being supported at present, so the data might be stale.
 
 * [fsf.org](https://www.fsf.org/)
 is the website of the **Free Software Foundation**. The Free Software
@@ -187,8 +184,8 @@ and its importance in the enterprise.
 
 * [The Linux Foundation's 2018 Open Source Jobs Report](https://www.linuxfoundation.org/publications/2018/06/open-source-jobs-report-2018/)
 is a report on jobs in the open source world in 2018. To give you some idea, from the report:
-	> "Open source continues its long stretch of popularity, becoming the 
-	> software of choice for businesses large and small."
+	"Open source continues its long stretch of popularity, becoming the 
+	software of choice for businesses large and small."
 
               
 * [Open Source Within Modern Companies](https://opensource.com/business/16/5/whats-open-source-program-office)
