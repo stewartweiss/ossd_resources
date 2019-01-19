@@ -9,13 +9,13 @@ open source.
 
 # Contents
 - [Open Source Supporting Institutions and Organizations](#history-of-open-source-and-the-free-software-movement)
-- [Websites Providing Definitions, Commentary, and General Information About Open Source](#websites-providing-definitions,-commentary,-and-general-information-about-open-source)
+- [Websites Providing Definitions, Commentary, and General Information About Open Source](#websites-providing-definitions-commentary-and-general-information-about-open-source)
 - [History of Open Source and the Free Software Movement](#history-of-open-source-and-the-free-software-movement)
 - [The Business of Open Source](#the-business-of-open-source)
 - [Open Source Stories](#open-source-stories)
 - [Intellectual Property Rights and License](#intellectual-property-rights-and-license)
 - [Contributing to Open Source Projects](#contributing-to-open-source-projects)
-- [Links to Tutorials, Resources, and Other Help In Using Open Source-Related Tools](#links-to-tutorials,-resources,-and-other-help-in-using-open-source-related-tools)
+- [Links to Tutorials, Resources, and Other Help In Using Open Source-Related Tools](#links-to-tutorials-resources-and-other-help-in-using-open-source-related-tools)
 
                                          
 
