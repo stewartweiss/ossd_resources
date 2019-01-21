@@ -91,6 +91,10 @@ definition. The Free Software Foundation, founded by Richard Stallman in 1985,
 has a very precise notion of free software.  In short, it views open source 
 as a development methodology, whereas it views free software as a social movement.
 
+* [Debian's Social Contract](https://www.debian.org/social_contract.html#guidelines)
+contains the set of guidelines used by **Debian**, the producers of the Debian 
+operating system, to determine whether a software work is free. The page also 
+contains Debian's social contract, a commitment by Debian to its users.
 
 * [Frequently Asked Questions](https://opensource.org/faq)
 is a collection of answers from OSI to questions covering the general topics of  
@@ -304,3 +308,7 @@ is a collection of what to do when things go wrong in using Git.
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ )
 is a guide from GitHub in mastering Markdown
 
+* [Git Visualization Tool](http://git-school.github.io/visualizing-git/)
+is a page that displays a simplified visualization of the effects of various
+git commands on the internal representation used by git to represent a
+repository.
