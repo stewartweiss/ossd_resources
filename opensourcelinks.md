@@ -97,7 +97,7 @@ operating system, to determine whether a software work is free. The page also
 contains Debian's social contract, a commitment by Debian to its users.
 
 * [Frequently Asked Questions](https://opensource.org/faq)
-is a collection of answers from OSI to questions covering the general topics of  
+is a collection of answers from OSI to questions covering the general topics of
 the basics of Open Source,  distributing and using Open Source software, and the
 commercial aspects of Open Source.
 
