@@ -311,3 +311,6 @@ is a guide from GitHub in mastering Markdown
 is a page that displays a simplified visualization of the effects of various
 git commands on the internal representation used by git to represent a
 repository.
+
+* [bash Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
+is a very simple cheat sheet for people who know almost no basic bash.
