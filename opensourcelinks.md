@@ -98,9 +98,8 @@ contains Debian's social contract, a commitment by Debian to its users.
 
 * [Frequently Asked Questions](https://opensource.org/faq)
 is a collection of answers from OSI to questions covering the general topics of  
-	* Basics of Open Source
-	* Distributing and Using Open Source Software
-	* Commerce and Open Source
+the basics of Open Source,  distributing and using Open Source software, and the
+commercial aspects of Open Source.
 
 * [10 things you should know about open source before you use it](https://www.techrepublic.com/blog/10-things/10-things-you-should-know-about-open-source-before-you-use-it/)
 debunks many myths surrounding open source. It is good reading for anyone who thinks they know
