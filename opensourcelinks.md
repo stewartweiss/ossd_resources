@@ -215,7 +215,7 @@ These are selected websites that contain stories about open source
 projects, not necessarily software.
 
 * [Three women who built their own open hardware](https://www.redhat.com/en/open-source-stories/because-we-had-to)
-is a collection of videos from **RedHat** about open hardware projects.
+is a collection of stories from **RedHat** about three women who started open hardware projects.
 
 * [RedHat Featured Video: Four stories about collective discovery](https://www.redhat.com/en/open-source-stories/collective-discovery)
 is a video from RedHat about how  citizen scientists are using open hardware to make groundbreaking discoveries
