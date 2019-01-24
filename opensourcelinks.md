@@ -8,7 +8,7 @@ or provide many services and resources for those interested in all things
 open source. 
 
 # Contents
-- [Open Source Supporting Institutions and Organizations](#history-of-open-source-and-the-free-software-movement)
+- [Open Source Supporting Institutions and Organizations](#open-source-supporting-institutions-and-organizations)
 - [Websites Providing Definitions, Commentary, and General Information About Open Source](#websites-providing-definitions-commentary-and-general-information-about-open-source)
 - [History of Open Source and the Free Software Movement](#history-of-open-source-and-the-free-software-movement)
 - [The Business of Open Source](#the-business-of-open-source)
@@ -75,6 +75,11 @@ maintained by the federal government. As they put it, it
 "leverages the power of code sharing and collaboration to 
 help the U.S. Government cut down on duplicative software development 
 and save millions of taxpayer dollars for the American people."
+
+* [U.S. Open Government Directive](https://obamawhitehouse.archives.gov/open/documents/open-government-directive)
+is the directive issued by President Obama to create more transparency
+in the United States Government. Each agency of the Executive branch has an
+Open Government Initiative or Plan.
 
 
 ## Websites Providing Definitions, Commentary, and General Information About Open Source
