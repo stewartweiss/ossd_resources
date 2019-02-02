@@ -261,6 +261,9 @@ is an article about a restrictive addendum, [Commons Clause](https://commonsclau
 sofwtare license issued by a company called Redis, that has sparked a
 controversy. The addendum limits commercial reuse of the licensed work.
 
+* [choosealicense.com](https://choosealicense.com/) is a website that guides you through a
+question and answer process to the right license, and then displays the license text.
+
 ## Contributing to Open Source Projects
 
 These are links to websites with advice about how to contribute  to
@@ -302,6 +305,8 @@ is a glossary of Git and GitHub terminology.
                
 * [Git Cheat Sheet ](https://education.github.com/git-cheat-sheet-education.pdf )
 is what it says. Download it and keep it close at hand.
+
+* [Git Reference Manual](https://git-scm.com/docs) is an online reference manual for Git.
 
 * [Katacoda Interactive Git Tutorial](https://www.katacoda.com/courses/git/ )
 is an interactive Git tutorial from Katacoda.
