@@ -267,7 +267,20 @@ question and answer process to the right license, and then displays the license 
 ## Contributing to Open Source Projects
 
 These are links to websites with advice about how to contribute  to
-software projects.
+software projects and to websites that describe open source communities. 
+
+* [Four Types of Open Source Communities](https://opensource.com/business/13/6/four-types-organizational-structures-within-open-source-communities)
+is an article about the different ways in which organizations can be structured around open source projects.
+
+* [The Beginner's Guide to Contributing to Open Source Projects](https://blog.newrelic.com/engineering/open-source_gettingstarted/ )
+is more advice on ways to get started in open source projects.
+
+* [7 Things That Make a Great Open Source Contribution](https://blog.newrelic.com/2014/11/05/open-source-contribution/) 
+is a guide for anyone who wants to make their contributions to open source projects as valuable as possible. 
+
+* [The 8 Essential Traits of a Great Open Source Contributor](https://blog.newrelic.com/engineering/open-source-contributors/)
+is an article about the personal qualities that you should cultivate if you want to be a great contributor to open source projects.
+
 
 * [A Beginner&lsquo;s Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.org/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39 )
 is a pep talk for anyway who has been or is afraid that they might be
@@ -282,10 +295,6 @@ without writing code or even knowing how to write code.
 is GitHub's advice on how to contribute to open source projects.  This is
 highly recommended reading.
  
-* [14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star](http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/)
-is what it says - more ways to contribute without being a super-hacker
-or whatever one's idea of an intimidating programmer might be.
-
 * [11 ways to get involved with Humanitarian FOSS](https://opensource.com/life/15/2/getting-involved-hfoss )
 contains 11 ways to get involved with Humanitarian open source software 
 projects. "FOSS" means "Free and Open Source Software".
