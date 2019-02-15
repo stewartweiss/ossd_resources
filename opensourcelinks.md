@@ -44,6 +44,11 @@ diversity. As they put it, they are
 	"dedicated to matching prospective free software contributors  with communities, tools, and education. "
 	CAVEAT: This website is not being supported at present, so the data might be stale.
 
+* [OpenHub.net](https://www.openhub.net/)
+is a website that collects metadata about open source projects. It is a great resource for
+researching open source projects. As the website states, it is to
+    "Discover, Track and Compare Open Source"
+
 * [fsf.org](https://www.fsf.org/)
 is the website of the **Free Software Foundation**. The Free Software
 Foundation (FSF) is a non-profit organization founded by Richard Stallman 
