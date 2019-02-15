@@ -44,8 +44,8 @@ diversity. As they put it, they are
 	"dedicated to matching prospective free software contributors  with communities, tools, and education. "
 	CAVEAT: This website is not being supported at present, so the data might be stale.
 
-* [OpenHub.net](https://www.openhub.net/)
-is a website that collects metadata about open source projects. It is a great resource for
+* [openhub.net](https://www.openhub.net/)
+is the website of **OPenHub**. It collects metadata about open source projects. It is a great resource for
 researching open source projects. As the website states, it is to
     "Discover, Track and Compare Open Source"
 
