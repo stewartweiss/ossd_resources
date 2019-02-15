@@ -45,7 +45,7 @@ diversity. As they put it, they are
 	CAVEAT: This website is not being supported at present, so the data might be stale.
 
 * [openhub.net](https://www.openhub.net/)
-is the website of **OPenHub**. It collects metadata about open source projects. It is a great resource for
+is the website of **OpenHub**. It collects metadata about open source projects. It is a great resource for
 researching open source projects. As the website states, it is to
     "Discover, Track and Compare Open Source"
 
