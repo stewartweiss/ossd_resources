@@ -238,6 +238,10 @@ is a page to explore.
 * [Humanitarian Open Source Projects](https://opensource.com/tags/humanitarian)
 is a small sample of some of the humanitarian open source projects
 around the world.
+
+* [Penn Manor High School's Linux Laptop Initiative](https://opensource.com/education/14/9/open-source-high-school) is
+a story about a high school in Lancaster County Pennsylvania that tossed their proprietary software and devices,
+saved hundreds of thousands of dollars and gave control of their computing devices to the students themselves.
                
 ## Intellectual Property Rights and License
 
