@@ -271,7 +271,11 @@ sofwtare license issued by a company called Redis, that has sparked a
 controversy. The addendum limits commercial reuse of the licensed work.
 
 * [choosealicense.com](https://choosealicense.com/) is a website that guides you through a
-question and answer process to the right license, and then displays the license text.
+question and answer process to the right license, and then displays the license text, and
+[choosealicense.com summary](https://choosealicense.com/licenses/) is a tabular summary on this site.
+
+* [A Short Guide to Open Source Licenses](https://www.smashingmagazine.com/2010/03/a-short-guide-to-open-source-and-similar-licenses/)
+is a very short and clear explanation of the most common licenses.
 
 ## Contributing to Open Source Projects
 
