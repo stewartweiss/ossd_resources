@@ -333,6 +333,9 @@ is what it says. Download it and keep it close at hand.
 
 * [Git Reference Manual](https://git-scm.com/docs) is an online reference manual for Git.
 
+* [Atlassian BitBucket Git Tutorial](https://www.atlassian.com/git/tutorials) is another
+complete set of tutorials on Git and version control, for beginners and advanced Git users.
+
 * [Katacoda Interactive Git Tutorial](https://www.katacoda.com/courses/git/ )
 is an interactive Git tutorial from Katacoda.
 
