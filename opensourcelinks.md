@@ -350,5 +350,9 @@ is a page that displays a simplified visualization of the effects of various
 git commands on the internal representation used by git to represent a
 repository.
 
-* [bash Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
+* [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html) is the GNU reference manual for bash. If you need details about things, or want to learn more, this is a good place to browse.
+
+* [Bash Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 is a very simple cheat sheet for people who know almost no basic bash.
+
+* [Linux Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page) is a tututorial on writing bash scripts in Linux.
