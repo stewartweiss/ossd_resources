@@ -345,6 +345,9 @@ is a collection of what to do when things go wrong in using Git.
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ )
 is a guide from GitHub in mastering Markdown
 
+* [Git Cheat Sheet](https://jrebel.com/rebellabs/git-commands-and-best-practices-cheat-sheet/)
+is a useful cheat sheet with some pictures that are helpful to remember.
+
 * [Git Visualization Tool](http://git-school.github.io/visualizing-git/)
 is a page that displays a simplified visualization of the effects of various
 git commands on the internal representation used by git to represent a
