@@ -177,11 +177,10 @@ is a link to an on-line version of this must-read book by Eric Raymond about
 the fundamental principles of open source software development.
 
 * [Command-line Heroes-Season-1: The OS Wars](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1)
-is the first part of a podcast about the "war" between Apple and Microsoft and how open source was grwoing in
+is the first part of a podcast about the "war" between Apple and Microsoft and how open source was growing in
 the background.
 
-* [Command-line Heroes-Season-1: The Rise of Linux]
-(https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux)
+* [Command-line Heroes-Season-1: The Rise of Linux](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux)
 is a continuation of the preceding podcast.
 
 ## The Business of Open Source
