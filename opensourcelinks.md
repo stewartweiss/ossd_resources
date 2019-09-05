@@ -176,6 +176,13 @@ software movement.
 is a link to an on-line version of this must-read book by Eric Raymond about
 the fundamental principles of open source software development.
 
+* [Command-line Heroes-Season-1: The OS Wars](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1)
+is the first part of a podcast about the "war" between Apple and Microsoft and how open source was grwoing in
+the background.
+
+* [Command-line Heroes-Season-1: The Rise of Linux]
+(https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux)
+is a continuation of the preceding podcast.
 
 ## The Business of Open Source
 How is money made in the world of open source? Many people think that open source,
