@@ -183,6 +183,9 @@ the background.
 * [Command-line Heroes-Season-1: The Rise of Linux](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux)
 is a continuation of the preceding podcast.
 
+* [Unix at 50](https://arstechnica.com/gadgets/2019/08/unix-at-50-it-starts-with-a-mainframe-a-gator-and-three-dedicated-researchers/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190907+prog+nl&mkt_tok=eyJpIjoiWWpnMFpqRmxPVEUxWkRFeSIsInQiOiIzVmswclwvZFhLXC9aQkd2a0ZrZk1vSXpPVDI2Y1d2YnM3MGZyd0Q3Z25QajJOd1VrY2hTU0JMaEJBdTQ1cXlFREtNMVh3UlJGQU56YW9JVEhaN2NtdVpnTnI0NlpFSExEcEJDMHBESWNsNFwvK2JLNkxnZzlKaHV0QmlQY01xMGpjUiJ9)
+is a history of Unix on the 50th anniversary of its creation.
+
 ## The Business of Open Source
 How is money made in the world of open source? Many people think that open source,
 as an idea, is antithetical to the idea of making money. These articles
