@@ -320,6 +320,10 @@ without writing code or even knowing how to write code.
 is GitHub's advice on how to contribute to open source projects.  This is
 highly recommended reading.
 
+* [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+is Scott Chacon's comments about a method of working known as [git-flow](http://nvie.com/posts/a-successful-git-branching-model/)
+and his recommendation for another workflow that is used within GitHub itself, known as **GitHub Flow**.
+
 * [11 ways to get involved with Humanitarian FOSS](https://opensource.com/life/15/2/getting-involved-hfoss )
 contains 11 ways to get involved with Humanitarian open source software
 projects. "FOSS" means "Free and Open Source Software".
