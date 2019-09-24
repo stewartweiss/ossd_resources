@@ -231,6 +231,10 @@ that can exert influence on various sectors of software ecosystems,
 clarify its open source messaging, maximize the clout of its projects,
 or increase the efficiency of its product development.
 
+* [Balancing Makers and Takers to Scale and Sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source)
+is an article written by Dries Buytaert, the founder of Drupal, about
+scaling open source software and making it sustainable.
+
 ## Open Source Stories
 
 These are selected websites that contain stories about open source
