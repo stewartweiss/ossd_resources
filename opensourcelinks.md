@@ -342,6 +342,13 @@ software development.
 These are links to tutorials, technical information, and resources related
 to practical things like version control systems, markdown, and so on.
 
+### Markdown
+
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ )
+is a guide from GitHub in mastering Markdown
+
+
+### Git Resources
 * [Glossary of Git and GitHub specific terms](https://help.github.com/articles/github-glossary/ )
 is a glossary of Git and GitHub terminology.
 
@@ -358,10 +365,6 @@ is an interactive Git tutorial from Katacoda.
 
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules )
 is a collection of what to do when things go wrong in using Git.
-
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ )
-is a guide from GitHub in mastering Markdown
-
 * [Git Cheat Sheet](https://jrebel.com/rebellabs/git-commands-and-best-practices-cheat-sheet/)
 is a useful cheat sheet with some pictures that are helpful to remember.
 
@@ -370,9 +373,30 @@ is a page that displays a simplified visualization of the effects of various
 git commands on the internal representation used by git to represent a
 repository.
 
+### Unix/Linux Resources
+
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html) is the GNU reference manual for bash. If you need details about things, or want to learn more, this is a good place to browse.
 
 * [Bash Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 is a very simple cheat sheet for people who know almost no basic bash.
 
 * [Linux Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page) is a tututorial on writing bash scripts in Linux.
+
+### IRC Resources
+
+* [Opensource.com IRC Quick Start Guide](https://opensource.com/article/16/6/irc-quickstart-guide) is a good page to
+read to learn something about IRC and how it is used.
+
+* [Opensource.com IRC Getting Started Guide](https://opensource.com/article/16/6/getting-started-irc) provides soem basic nuts and
+bolts information for using IRC.
+
+* [Opensource.com IRC Client Guide](https://opensource.com/life/15/11/top-open-source-irc-clients) has a list of some
+IRC clients for various platforms.
+
+* [Greenday's List of (IRC)Chat Commands](http://www.greenday.net/chat/commands.html) is a comprehensive listof IRC commands.
+
+* [IRC General Help](https://www.irchelp.org/) is a landiong page with links to many IRC related resources.
+
+* [irchelp.org's IRC tutorial](https://www.irchelp.org/faq/irctutorial.html) is a very good tutorial on IRC.
+
+* [IRC Cheatsheet](cheat_sheet_irc_v2.pdf) is an IRC cheat sheet courtesy of OpenSource.com.
