@@ -365,6 +365,7 @@ is an interactive Git tutorial from Katacoda.
 
 * [Git Flight Rules](https://github.com/k88hudson/git-flight-rules )
 is a collection of what to do when things go wrong in using Git.
+
 * [Git Cheat Sheet](https://jrebel.com/rebellabs/git-commands-and-best-practices-cheat-sheet/)
 is a useful cheat sheet with some pictures that are helpful to remember.
 
