@@ -159,7 +159,7 @@ about open source software. You will be surprised.
 
 * [How Not to Fail](https://www.youtube.com/watch?v=fRk97h1FLow)
 is a YouTube video of a presentation by Tom Callaway of RedHat at
-SouthEast LinuxFest in which he discusses what one should and should
+SoutheEast LinuxFest in which he discusses what one should and should
 not do in order for open source software projects to succeed.
 
 * [The Personalities of Open Source](https://opensource.com/open-organization/18/11/design-communities-personality-types?utm_campaign=intrel)
@@ -245,7 +245,7 @@ is a collection of stories from **RedHat** about three women who started open ha
 
 * [RedHat Featured Video: Four stories about collective discovery](https://www.redhat.com/en/open-source-stories/collective-discovery)
 is a video from RedHat about how  citizen scientists are using open hardware to make groundbreaking discoveries
-and help their communities.
+and help their commuinities.
 
 * [RedHat's Open Source Stories](https://www.redhat.com/en/open-source-stories)
 is the landing page for RedHat's collection of video stories about open source. This
@@ -283,7 +283,7 @@ and licenses entitled "Understanding FOSS licenses (without a lawyer)".
 
 * [Open Source Licensing War: Commons Clause](https://www.zdnet.com/article/open-source-licensing-war-commons-clause/)
 is an article about a restrictive addendum, [Commons Clause](https://commonsclause.com/), added to an open source
-software license issued by a company called Redis, that has sparked a
+sofwtare license issued by a company called Redis, that has sparked a
 controversy. The addendum limits commercial reuse of the licensed work.
 
 * [choosealicense.com](https://choosealicense.com/) is a website that guides you through a
@@ -296,7 +296,7 @@ is a very short and clear explanation of the most common licenses.
 ## Contributing to Open Source Projects
 
 These are links to websites with advice about how to contribute  to
-software projects and to websites that describe open source communities.
+software projects, to websites that describe open source communities, and to websites that are related in general to the act of contributing.
 
 * [Four Types of Open Source Communities](https://opensource.com/business/13/6/four-types-organizational-structures-within-open-source-communities)
 is an article about the different ways in which organizations can be structured around open source projects.
@@ -331,6 +331,10 @@ and his recommendation for another workflow that is used within GitHub itself, k
 * [11 ways to get involved with Humanitarian FOSS](https://opensource.com/life/15/2/getting-involved-hfoss )
 contains 11 ways to get involved with Humanitarian open source software
 projects. "FOSS" means "Free and Open Source Software".
+
+* [Why To Report Bugs](https://pointersgonewild.com/2019/11/02/they-might-never-tell-you-its-broken/) 
+is a blog post by the creator of an open source Just In Time compiler who has 
+an important message for users in general.
 
 * [hechingerreport](http://hechingerreport.org/content/computer-coding-can-increase-engagement-provide-purpose-learning_17457/)
 is really intended for teachers, but it should be interesting for a student
@@ -381,22 +385,22 @@ repository.
 * [Bash Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 is a very simple cheat sheet for people who know almost no basic bash.
 
-* [Linux Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page) is a tutorial on writing bash scripts in Linux.
+* [Linux Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page) is a tututorial on writing bash scripts in Linux.
 
 ### IRC Resources
 
 * [Opensource.com IRC Quick Start Guide](https://opensource.com/article/16/6/irc-quickstart-guide) is a good page to
 read to learn something about IRC and how it is used.
 
-* [Opensource.com IRC Getting Started Guide](https://opensource.com/article/16/6/getting-started-irc) provides some basic nuts and
+* [Opensource.com IRC Getting Started Guide](https://opensource.com/article/16/6/getting-started-irc) provides soem basic nuts and
 bolts information for using IRC.
 
 * [Opensource.com IRC Client Guide](https://opensource.com/life/15/11/top-open-source-irc-clients) has a list of some
 IRC clients for various platforms.
 
-* [Greenday's List of (IRC)Chat Commands](http://www.greenday.net/chat/commands.html) is a comprehensive list of IRC commands.
+* [Greenday's List of (IRC)Chat Commands](http://www.greenday.net/chat/commands.html) is a comprehensive listof IRC commands.
 
-* [IRC General Help](https://www.irchelp.org/) is a landing page with links to many IRC related resources.
+* [IRC General Help](https://www.irchelp.org/) is a landiong page with links to many IRC related resources.
 
 * [irchelp.org's IRC tutorial](https://www.irchelp.org/faq/irctutorial.html) is a very good tutorial on IRC.
 
