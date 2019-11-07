@@ -12,7 +12,7 @@ open source.
 - [Websites Providing Definitions, Commentary, and General Information About Open Source](#websites-providing-definitions-commentary-and-general-information-about-open-source)
 - [History of Open Source and the Free Software Movement](#history-of-open-source-and-the-free-software-movement)
 - [The Business of Open Source](#the-business-of-open-source)
-- [Open Source Stories](#open-source-stories)
+- [Open Source Stories and Projects](#open-source-stories-and-projects)
 - [Intellectual Property Rights and License](#intellectual-property-rights-and-license)
 - [Contributing to Open Source Projects](#contributing-to-open-source-projects)
 - [Links to Tutorials, Resources, and Other Help In Using Open Source-Related Tools](#links-to-tutorials-resources-and-other-help-in-using-open-source-related-tools)
@@ -235,7 +235,7 @@ or increase the efficiency of its product development.
 is an article written by Dries Buytaert, the founder of Drupal, about
 scaling open source software and making it sustainable.
 
-## Open Source Stories
+## Open Source Stories and Projects
 
 These are selected websites that contain stories about open source
 projects, not necessarily software.
@@ -258,6 +258,17 @@ around the world.
 * [Penn Manor High School's Linux Laptop Initiative](https://opensource.com/education/14/9/open-source-high-school) is
 a story about a high school in Lancaster County Pennsylvania that tossed their proprietary software and devices,
 saved hundreds of thousands of dollars and gave control of their computing devices to the students themselves.
+
+* [Open Source Firmware (and the danger of using closed firmware)](https://cacm.acm.org/magazines/2019/10/239673-open-source-firmware/fulltext) is an
+article from the Communications of the ACM, October 2019, about the importance of open source
+firmware.
+
+* [System76 and the CoreBoot Project](https://opensource.com/article/19/11/coreboot-system76-laptops?utm_campaign=intrel)
+is an article about the System76 and the CoreBoot project,  an open source project aimed at
+replacing the proprietary BIOS (firmware) found in most computers.
+
+
+
 
 ## Intellectual Property Rights and License
 
@@ -332,8 +343,8 @@ and his recommendation for another workflow that is used within GitHub itself, k
 contains 11 ways to get involved with Humanitarian open source software
 projects. "FOSS" means "Free and Open Source Software".
 
-* [Why To Report Bugs](https://pointersgonewild.com/2019/11/02/they-might-never-tell-you-its-broken/) 
-is a blog post by the creator of an open source Just In Time compiler who has 
+* [Why To Report Bugs](https://pointersgonewild.com/2019/11/02/they-might-never-tell-you-its-broken/)
+is a blog post by the creator of an open source Just In Time compiler who has
 an important message for users in general.
 
 * [hechingerreport](http://hechingerreport.org/content/computer-coding-can-increase-engagement-provide-purpose-learning_17457/)
