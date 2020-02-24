@@ -352,6 +352,9 @@ is really intended for teachers, but it should be interesting for a student
 to read the advice given to teachers about humanitarian open source
 software development.
 
+* [Really Big List of Open Source Projects](https://medium.com/@likid_geimfari/the-list-of-interesting-open-source-projects-2daaa2153f7c)
+is a list compiled in 2016 by Líkið Geimfari of projects to which you might consider contributing.
+
 ## Links to Tutorials, Resources, and Other Help In Using Open Source-Related Tools
 
 These are links to tutorials, technical information, and resources related
