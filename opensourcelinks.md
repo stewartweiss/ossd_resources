@@ -365,6 +365,12 @@ to practical things like version control systems, markdown, and so on.
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ )
 is a guide from GitHub in mastering Markdown
 
+* [GitHub-Flavored Markdown Specification](https://github.github.com/gfm/)
+is the formal specification of GitHub-Flavored Markdown, dated 2019-04-06.
+
+* [Common Markdown Specification](https://spec.commonmark.org/0.29/)
+is the formal specification of general markdown, dated 2019-04-06.
+
 
 ### Git Resources
 * [Glossary of Git and GitHub specific terms](https://help.github.com/articles/github-glossary/ )
