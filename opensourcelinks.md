@@ -396,7 +396,7 @@ is a useful cheat sheet with some pictures that are helpful to remember.
 * [Git Visualization Tool](http://git-school.github.io/visualizing-git/)
 is a page that displays a simplified visualization of the effects of various
 git commands on the internal representation used by git to represent a
-repository.
+repository. It is an open source tool whose repository is [here](https://github.com/git-school/visualizing-git).
 
 ### Unix/Linux Resources
 
