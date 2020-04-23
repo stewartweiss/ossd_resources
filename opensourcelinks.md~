@@ -12,7 +12,7 @@ open source.
 - [Websites Providing Definitions, Commentary, and General Information About Open Source](#websites-providing-definitions-commentary-and-general-information-about-open-source)
 - [History of Open Source and the Free Software Movement](#history-of-open-source-and-the-free-software-movement)
 - [The Business of Open Source](#the-business-of-open-source)
-- [Open Source Stories and Projects](#open-source-stories-and-projects)
+- [Open Source Stories](#open-source-stories)
 - [Intellectual Property Rights and License](#intellectual-property-rights-and-license)
 - [Contributing to Open Source Projects](#contributing-to-open-source-projects)
 - [Links to Tutorials, Resources, and Other Help In Using Open Source-Related Tools](#links-to-tutorials-resources-and-other-help-in-using-open-source-related-tools)
@@ -235,7 +235,7 @@ or increase the efficiency of its product development.
 is an article written by Dries Buytaert, the founder of Drupal, about
 scaling open source software and making it sustainable.
 
-## Open Source Stories and Projects
+## Open Source Stories
 
 These are selected websites that contain stories about open source
 projects, not necessarily software.
@@ -259,24 +259,10 @@ around the world.
 a story about a high school in Lancaster County Pennsylvania that tossed their proprietary software and devices,
 saved hundreds of thousands of dollars and gave control of their computing devices to the students themselves.
 
-* [Open Source Firmware (and the danger of using closed firmware)](https://cacm.acm.org/magazines/2019/10/239673-open-source-firmware/fulltext) is an
-article from the Communications of the ACM, October 2019, about the importance of open source
-firmware.
-
-* [System76 and the CoreBoot Project](https://opensource.com/article/19/11/coreboot-system76-laptops?utm_campaign=intrel)
-is an article about the System76 and the CoreBoot project,  an open source project aimed at
-replacing the proprietary BIOS (firmware) found in most computers.
-
-
-
-
 ## Intellectual Property Rights and License
 
 These are selected articles and talks about intellectual property rights
 and licenses.
-
-* [OSI's Comprehensive List of Open Source Licenses](https://opensource.org/licenses/alphabetical)
-is a list of all OSI-approved licenses.
 
 * [Creative Commons Licenses](https://creativecommons.org/licenses/)
 is the website in which the Creative Commons describes and explains
@@ -307,13 +293,10 @@ question and answer process to the right license, and then displays the license 
 * [A Short Guide to Open Source Licenses](https://www.smashingmagazine.com/2010/03/a-short-guide-to-open-source-and-similar-licenses/)
 is a very short and clear explanation of the most common licenses.
 
-* [A Summary of Open Source Licenses](https://itsfoss.com/open-source-licenses-explained/)
-is yet another explanation of licenses.
-
 ## Contributing to Open Source Projects
 
 These are links to websites with advice about how to contribute  to
-software projects, to websites that describe open source communities, and to websites that are related in general to the act of contributing.
+software projects and to websites that describe open source communities.
 
 * [Four Types of Open Source Communities](https://opensource.com/business/13/6/four-types-organizational-structures-within-open-source-communities)
 is an article about the different ways in which organizations can be structured around open source projects.
@@ -349,17 +332,10 @@ and his recommendation for another workflow that is used within GitHub itself, k
 contains 11 ways to get involved with Humanitarian open source software
 projects. "FOSS" means "Free and Open Source Software".
 
-* [Why To Report Bugs](https://pointersgonewild.com/2019/11/02/they-might-never-tell-you-its-broken/)
-is a blog post by the creator of an open source Just In Time compiler who has
-an important message for users in general.
-
 * [hechingerreport](http://hechingerreport.org/content/computer-coding-can-increase-engagement-provide-purpose-learning_17457/)
 is really intended for teachers, but it should be interesting for a student
 to read the advice given to teachers about humanitarian open source
 software development.
-
-* [Really Big List of Open Source Projects](https://medium.com/@likid_geimfari/the-list-of-interesting-open-source-projects-2daaa2153f7c)
-is a list compiled in 2016 by Líkið Geimfari of projects to which you might consider contributing.
 
 ## Links to Tutorials, Resources, and Other Help In Using Open Source-Related Tools
 
@@ -370,12 +346,6 @@ to practical things like version control systems, markdown, and so on.
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ )
 is a guide from GitHub in mastering Markdown
-
-* [GitHub-Flavored Markdown Specification](https://github.github.com/gfm/)
-is the formal specification of GitHub-Flavored Markdown, dated 2019-04-06.
-
-* [Common Markdown Specification](https://spec.commonmark.org/0.29/)
-is the formal specification of general markdown, dated 2019-04-06.
 
 
 ### Git Resources
@@ -402,7 +372,7 @@ is a useful cheat sheet with some pictures that are helpful to remember.
 * [Git Visualization Tool](http://git-school.github.io/visualizing-git/)
 is a page that displays a simplified visualization of the effects of various
 git commands on the internal representation used by git to represent a
-repository. It is an open source tool whose repository is [here](https://github.com/git-school/visualizing-git).
+repository.
 
 ### Unix/Linux Resources
 
